@@ -1,7 +1,7 @@
 {
-  "name": "hs-201-brock-dickson",
+  "name": "find-your-squad",
   "version": "1.0.0",
-  "description": "",
+  "description": "A website to find what squad works for you and to team up.",
   "main": "index.html",
   "scripts": {
     "start": "serve",
